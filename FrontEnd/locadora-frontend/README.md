@@ -12,11 +12,6 @@ Front-end criado para sistema de cadastro de carros
 
 ### Execução em ambiente de desenvolvimento usando Eclipse:
 
-Clonar o projeto:
-
-```sh
-$ git clone https://git@github.com:americanolinhares/locadora-frontend.git
-```
 Para executar a aplicação o [Node.js](https://nodejs.org/en/) deve estar instalado.
 Entrar na pasta locadora-frontend através da linha de comandos e executar:
 
@@ -34,9 +29,3 @@ Para rodar o servidor de desenvolvimento executar o comando seguinte e acessar a
 $ ng serve
 ```
 
-## Execução de teste end-to-end:
-
-Execute `ng e2e` para rodar os testes end-to-end.
-
-## Tela de edição de veiculo:
-![postman-test](https://i.ibb.co/0cc789t/frontend.png)
